@@ -1,0 +1,76 @@
+[
+  {
+    "factura": "4460584",
+    "emision": {
+      "metadata": {
+        "fecha_emision": "2025-06-16",
+        "total_asegurados": 2,
+        "plan": "VIAJERO COBERTURA EN DOLARES",
+        "estado": "pendiente",
+        "estado_facturacion": "SALDADA"
+      },
+      "emision": {
+        "agency_id": 1,
+        "discount": 0.0,
+        "salesman_id": 10,
+        "products": [
+          {
+            "id": 1
+          }
+        ],
+        "destiny_id": 840,
+        "destination_id": 840,
+        "from": "2026-06-24",
+        "to": "2026-07-05",
+        "terms": "",
+        "insured": [
+          {
+            "identity": "",
+            "passport": "6682595-0",
+            "firstname": "GISNELLY DE LOURDES LUCIANO",
+            "lastname": "LASSIS",
+            "birthdate": "1977-10-03",
+            "sex": "M"
+          },
+          {
+            "identity": "",
+            "passport": "6682595-3",
+            "firstname": "CANDELA MARÍA PONCE",
+            "lastname": "LUCIANO",
+            "birthdate": "2014-01-03",
+            "sex": "M"
+          }
+        ],
+        "addresses": [
+          {
+            "line1": ".",
+            "line2": "",
+            "city": ".",
+            "state": ".",
+            "country_id": 214,
+            "zip": "00000",
+            "phone": [
+              "."
+            ],
+            "email": [
+              "."
+            ],
+            "kind": "Por defecto"
+          }
+        ]
+      }
+    },
+    "error": "No se generó ticket de la póliza",
+    "error_details": {
+      "status_code": 500,
+      "validation_codes": [],
+      "validation_messages": [
+        "No se pudo registrar su pago en la aplicación"
+      ],
+      "api_response": {
+        "error": true,
+        "message": "No se pudo registrar su pago en la aplicación"
+      }
+    }
+  }
+]

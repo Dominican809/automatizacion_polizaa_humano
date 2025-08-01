@@ -1,0 +1,1445 @@
+{
+  "4532550": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 3,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-01",
+      "to": "2025-08-06",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "00118589274",
+          "passport": "2289094-0",
+          "firstname": "IVAN EUCLIDES",
+          "lastname": "ROQUE AMPARO",
+          "birthdate": "1989-04-29",
+          "gender": "M"
+        },
+        {
+          "identity": "00100208719",
+          "passport": "276919-0",
+          "firstname": "NERIS OSVALDOS",
+          "lastname": "GERMAN ABREU",
+          "birthdate": "1968-08-04",
+          "gender": "M"
+        },
+        {
+          "identity": "",
+          "passport": "2046769-0",
+          "firstname": "ERIC OMAR",
+          "lastname": "MOTA ALCANTARA",
+          "birthdate": "1976-05-05",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532595": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 30 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-30",
+      "to": "2025-08-28",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "3146308-0",
+          "firstname": "FRANCISCA HERMINIA",
+          "lastname": "MARTINEZ DE MEJIA",
+          "birthdate": "1946-04-25",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532599": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 2,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-03",
+      "to": "2025-08-08",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "40225551130",
+          "passport": "1052339-5",
+          "firstname": "TEOVIANNY EMIL",
+          "lastname": "RODRIGUEZ SARITA",
+          "birthdate": "1996-10-28",
+          "gender": "M"
+        },
+        {
+          "identity": "40239183011",
+          "passport": "1052339-3",
+          "firstname": "EMELY CHANTAL",
+          "lastname": "CASTILLO LEONARDO",
+          "birthdate": "1999-12-05",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532604": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-02",
+      "to": "2025-08-09",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "999566-0",
+          "firstname": "MARGARITA MARIA",
+          "lastname": "MATOS SANTANA",
+          "birthdate": "1962-10-20",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532630": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-12",
+      "to": "2025-08-14",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "40226471734",
+          "passport": "3035356-0",
+          "firstname": "ROUVIERE AMIN",
+          "lastname": "GARCIA PATRICIO",
+          "birthdate": "1997-04-30",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532663": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 3,
+      "plan": "Buen Viaje 15 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-06",
+      "to": "2025-08-14",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "40257567889",
+          "passport": "865234-2",
+          "firstname": "HUGO MOISES",
+          "lastname": "CID CID",
+          "birthdate": "2021-10-02",
+          "gender": "M"
+        },
+        {
+          "identity": "00108128224",
+          "passport": "865234-1",
+          "firstname": "HUGO DE JESUS",
+          "lastname": "CID CID",
+          "birthdate": "1972-07-01",
+          "gender": "M"
+        },
+        {
+          "identity": "",
+          "passport": "865234-0",
+          "firstname": "BERKIS",
+          "lastname": "CID LOPEZ",
+          "birthdate": "1974-12-15",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532685": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 30 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-31",
+      "to": "2025-08-29",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "3146194-0",
+          "firstname": "JUANA RAMONA",
+          "lastname": "JORGE BUENO",
+          "birthdate": "1960-03-13",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532697": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 2,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-06",
+      "to": "2025-08-12",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "9365913-0",
+          "firstname": "KELIN MARIA",
+          "lastname": "UBIERA SANCHEZ",
+          "birthdate": "1985-11-06",
+          "gender": "F"
+        },
+        {
+          "identity": "00115277220",
+          "passport": "1478379-0",
+          "firstname": "MARINO",
+          "lastname": "GONZALEZ",
+          "birthdate": "1980-07-19",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532700": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-30",
+      "to": "2025-08-04",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "3133902-0",
+          "firstname": "JAVIER SANTIAGO",
+          "lastname": "BOUCHE SANABRIA",
+          "birthdate": "1991-05-25",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532704": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 30 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-06",
+      "to": "2025-08-26",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "3057428-0",
+          "firstname": "ROBERT JOSE RAFAEL",
+          "lastname": "MOREL MERCADO",
+          "birthdate": "1968-04-19",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532705": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 30 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-06",
+      "to": "2025-08-26",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "2960566-0",
+          "firstname": "HAROLD",
+          "lastname": "PAZ RODRIGUEZ",
+          "birthdate": "1976-06-09",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532706": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-19",
+      "to": "2025-08-21",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "40226471734",
+          "passport": "3035356-0",
+          "firstname": "ROUVIERE AMIN",
+          "lastname": "GARCIA PATRICIO",
+          "birthdate": "1997-04-30",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4532708": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-25",
+      "to": "2025-08-27",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "00116253535",
+          "passport": "872383-0",
+          "firstname": "ALEXANDRA MARIA",
+          "lastname": "BARET CHU",
+          "birthdate": "1983-01-04",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533037": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 2,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-31",
+      "to": "2025-08-04",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "477083-0",
+          "firstname": "ANTHONY SIMON",
+          "lastname": "ARECHE PAPPATERRA",
+          "birthdate": "1974-07-15",
+          "gender": "M"
+        },
+        {
+          "identity": "",
+          "passport": "477083-3",
+          "firstname": "ORANIA",
+          "lastname": "RODRIGUEZ LOCKWARD",
+          "birthdate": "1974-12-12",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533077": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 2,
+      "plan": "Buen Viaje 15 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-01",
+      "to": "2025-08-15",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "00200162261",
+          "passport": "3146325-0",
+          "firstname": "CAROLINA ALEXANDRA",
+          "lastname": "MARIEZ HOLLINGSHEAD",
+          "birthdate": "1967-07-09",
+          "gender": "F"
+        },
+        {
+          "identity": "00200162279",
+          "passport": "3146325-1",
+          "firstname": "MARTHA LIDIA",
+          "lastname": "MARIEZ HOLLINGSHEADS",
+          "birthdate": "1964-01-18",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533085": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-01",
+      "to": "2025-08-06",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "00117741355",
+          "passport": "1614742-0",
+          "firstname": "HONORIA VICTORIA",
+          "lastname": "FAMILIA ZABALA",
+          "birthdate": "1985-12-24",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533095": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 3,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-31",
+      "to": "2025-08-03",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "770809-0",
+          "firstname": "JUSTINA",
+          "lastname": "CEDEO CEDEO",
+          "birthdate": "1985-06-01",
+          "gender": "F"
+        },
+        {
+          "identity": "",
+          "passport": "1146842-0",
+          "firstname": "JOSE FRANCISCO",
+          "lastname": "FLAQUER SANTANA",
+          "birthdate": "1960-07-06",
+          "gender": "M"
+        },
+        {
+          "identity": "40202773558",
+          "passport": "770809-3",
+          "firstname": "JIMMY JEREIMY",
+          "lastname": "RAMIREZ CEDEO",
+          "birthdate": "2011-04-02",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533104": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 10,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-07",
+      "to": "2025-08-13",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "40224954558",
+          "passport": "2918878-0",
+          "firstname": "DIANNA MARIA",
+          "lastname": "CORNIEL UREA",
+          "birthdate": "1997-02-04",
+          "gender": "F"
+        },
+        {
+          "identity": "40234651467",
+          "passport": "9936818-0",
+          "firstname": "LORAINE ROBELIS",
+          "lastname": "LAUREANO REYES",
+          "birthdate": "2001-08-09",
+          "gender": "F"
+        },
+        {
+          "identity": "",
+          "passport": "3146329-0",
+          "firstname": "MARIA YSABEL DEL CARMEN",
+          "lastname": "ALMONTE CAMPOS",
+          "birthdate": "1970-05-11",
+          "gender": "F"
+        },
+        {
+          "identity": "",
+          "passport": "1619922-0",
+          "firstname": "YOHANS EMILIO",
+          "lastname": "SANTOS GARCIA",
+          "birthdate": "1986-11-05",
+          "gender": "M"
+        },
+        {
+          "identity": "00103841771",
+          "passport": "3006670-1",
+          "firstname": "MARIE FRANCIS",
+          "lastname": "GARCIA ROSARIO",
+          "birthdate": "1959-08-28",
+          "gender": "F"
+        },
+        {
+          "identity": "",
+          "passport": "9997380-0",
+          "firstname": "ANNY ZOBEIDA",
+          "lastname": "MIRANDA PEA",
+          "birthdate": "1989-12-30",
+          "gender": "F"
+        },
+        {
+          "identity": "",
+          "passport": "3146333-0",
+          "firstname": "SONIA CECILIA",
+          "lastname": "COLLADO",
+          "birthdate": "1960-08-19",
+          "gender": "F"
+        },
+        {
+          "identity": "40221200294",
+          "passport": "2564462-0",
+          "firstname": "ARISMENDY ANTONIO",
+          "lastname": "RODRIGUEZ RODRIGUEZ",
+          "birthdate": "1991-07-25",
+          "gender": "M"
+        },
+        {
+          "identity": "40232845939",
+          "passport": "3146328-0",
+          "firstname": "YARIL",
+          "lastname": "POLANCO",
+          "birthdate": "2001-07-27",
+          "gender": "F"
+        },
+        {
+          "identity": "",
+          "passport": "3146330-0",
+          "firstname": "SAMANTHA PAULETTE",
+          "lastname": "TAVAREZ ALMONTE",
+          "birthdate": "1993-06-02",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533107": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 30 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-04",
+      "to": "2025-08-25",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "3038555-0",
+          "firstname": "ALBERTO MANUEL",
+          "lastname": "ABELANDA GONZALEZ",
+          "birthdate": "1978-08-23",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533136": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 15 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-08",
+      "to": "2025-08-20",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "3146340-0",
+          "firstname": "ANDREA",
+          "lastname": "PILIER OLEA",
+          "birthdate": "1972-10-06",
+          "gender": "F"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533146": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-30",
+      "to": "2025-08-04",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "00114718190",
+          "passport": "977071-0",
+          "firstname": "JOSE RAFAEL",
+          "lastname": "MIRANDA GARCIA",
+          "birthdate": "1981-05-20",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533167": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 2,
+      "plan": "Buen Viaje 30 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-31",
+      "to": "2025-08-17",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "3146579-0",
+          "firstname": "STEVEN LESLIE",
+          "lastname": "HATTIE",
+          "birthdate": "1972-05-06",
+          "gender": "M"
+        },
+        {
+          "identity": "",
+          "passport": "3146579-1",
+          "firstname": "BILLY",
+          "lastname": "HATTIE",
+          "birthdate": "2015-07-05",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533178": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 15 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-07-30",
+      "to": "2025-08-13",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "40202859134",
+          "passport": "660813-2",
+          "firstname": "FERDINAND DARIEL",
+          "lastname": "MORA MOSQUEA",
+          "birthdate": "2011-05-16",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533181": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 7 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-01",
+      "to": "2025-08-04",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "",
+          "passport": "1919585-0",
+          "firstname": "JUAN DE LA CRUZ",
+          "lastname": "GONZALEZ BRITO",
+          "birthdate": "1958-12-03",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  },
+  "4533182": {
+    "metadata": {
+      "fecha_emision": "2025-07-30",
+      "total_asegurados": 2,
+      "plan": "Buen Viaje 15 dias",
+      "estado": "pendiente",
+      "estado_facturacion": "NO ESPECIFICADO"
+    },
+    "emision": {
+      "agency_id": 1,
+      "discount": 0.0,
+      "salesman_id": 10,
+      "products": [
+        {
+          "id": 1
+        }
+      ],
+      "destiny_id": 840,
+      "destination_id": 840,
+      "from": "2025-08-13",
+      "to": "2025-08-27",
+      "terms": "",
+      "insured": [
+        {
+          "identity": "40247540053",
+          "passport": "3146626-1",
+          "firstname": "KAREN MAYBELLINE",
+          "lastname": "ENCARNACION DIAZ",
+          "birthdate": "2000-10-17",
+          "gender": "F"
+        },
+        {
+          "identity": "40226154918",
+          "passport": "3146626-0",
+          "firstname": "ALVARO JUNIOR",
+          "lastname": "SANTAFE SANTANA",
+          "birthdate": "1992-11-11",
+          "gender": "M"
+        }
+      ],
+      "addresses": [
+        {
+          "line1": ".",
+          "line2": "",
+          "city": ".",
+          "state": ".",
+          "country_id": 214,
+          "zip": "00000",
+          "phone": [
+            "."
+          ],
+          "email": [
+            "."
+          ],
+          "kind": "Por defecto"
+        }
+      ]
+    }
+  }
+}
