@@ -322,7 +322,7 @@ def cargar_emisiones_desde_excel(excel_path, output_path=None):
                         "destination_id": PAIS_ID_USA,
                         "from": fecha_inicio,
                         "to": fecha_fin,
-                        "terms": "",
+                        "terms": f"factura: {factura}",
                         "insured": insured,
                         "addresses": addresses
                     }

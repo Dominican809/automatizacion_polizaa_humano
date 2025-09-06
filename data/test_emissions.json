@@ -1,11 +1,11 @@
 {
-  "4460584": {
+  "4532456": {
     "metadata": {
-      "fecha_emision": "2025-06-16",
-      "total_asegurados": 2,
-      "plan": "VIAJERO COBERTURA EN DOLARES",
+      "fecha_emision": "2025-07-31",
+      "total_asegurados": 1,
+      "plan": "Buen Viaje 15 dias",
       "estado": "pendiente",
-      "estado_facturacion": "SALDADA"
+      "estado_facturacion": "NO ESPECIFICADO"
     },
     "emision": {
       "agency_id": 1,
@@ -18,25 +18,17 @@
       ],
       "destiny_id": 840,
       "destination_id": 840,
-      "from": "2026-06-24",
-      "to": "2026-07-05",
-      "terms": "",
+      "from": "2025-09-20",
+      "to": "2025-10-04",
+      "terms": "factura: 4532456",
       "insured": [
         {
           "identity": "",
-          "passport": "6682595-0",
-          "firstname": "GISNELLY DE LOURDES LUCIANO",
-          "lastname": "LASSIS",
-          "birthdate": "1977-10-03",
-          "sex": "M"
-        },
-        {
-          "identity": "",
-          "passport": "6682595-3",
-          "firstname": "CANDELA MAR\u00cdA PONCE",
-          "lastname": "LUCIANO",
-          "birthdate": "2014-01-03",
-          "sex": "M"
+          "passport": "3145682-0",
+          "firstname": "LAURA PATRICIA",
+          "lastname": "TABATA RINCONES",
+          "birthdate": "1988-01-19",
+          "gender": "F"
         }
       ],
       "addresses": [

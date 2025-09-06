@@ -15,13 +15,13 @@ cargar_emisiones_desde_excel("Exceles/Asegurados_Viajeros.xlsx", "emisiones_gene
 
 input("Presiona Enter para continuar con la carga de emisiones a Goval:")
 
-def test_multiple_emissions(json_path: str = "emisiones_generadas.json", num_emissions: int = 10) -> bool:
+def test_multiple_emissions(json_path: str = "emisiones_generadas.json", num_emissions: int = 1) -> bool:
     """
-    Prueba el procesamiento de múltiples emisiones.
+    Prueba el procesamiento de emisiones (puede ser una sola o múltiples).
     
     Args:
         json_path (str): Ruta al archivo de emisiones
-        num_emissions (int): Número de emisiones a procesar
+        num_emissions (int): Número de emisiones a procesar (default: 1)
         
     Returns:
         bool: True si la prueba fue exitosa, False en caso contrario
@@ -89,9 +89,9 @@ def main():
     # Verificar argumentos
     if len(sys.argv) > 1:
         if sys.argv[1] == "--test":
-            # Modo prueba con emisiones múltiples
+            # Modo prueba con emisiones (default: 1 emisión)
             json_path = sys.argv[2] if len(sys.argv) > 2 else "emisiones_generadas.json"
-            num_emissions = int(sys.argv[3]) if len(sys.argv) > 3 else 10
+            num_emissions = int(sys.argv[3]) if len(sys.argv) > 3 else 1
             return 0 if test_multiple_emissions(json_path, num_emissions) else 1
         else:
             json_path = sys.argv[1]

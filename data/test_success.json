@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "factura": "4532456",
+    "emision": {
+      "metadata": {
+        "fecha_emision": "2025-07-31",
+        "total_asegurados": 1,
+        "plan": "Buen Viaje 15 dias",
+        "estado": "pendiente",
+        "estado_facturacion": "NO ESPECIFICADO"
+      },
+      "emision": {
+        "agency_id": 1,
+        "discount": 0.0,
+        "salesman_id": 10,
+        "products": [
+          {
+            "id": 1
+          }
+        ],
+        "destiny_id": 840,
+        "destination_id": 840,
+        "from": "2025-09-20",
+        "to": "2025-10-04",
+        "terms": "factura: 4532456",
+        "insured": [
+          {
+            "identity": "",
+            "passport": "3145682-0",
+            "firstname": "LAURA PATRICIA",
+            "lastname": "TABATA RINCONES",
+            "birthdate": "1988-01-19",
+            "gender": "F"
+          }
+        ],
+        "addresses": [
+          {
+            "line1": ".",
+            "line2": "",
+            "city": ".",
+            "state": ".",
+            "country_id": 214,
+            "zip": "00000",
+            "phone": [
+              "."
+            ],
+            "email": [
+              "."
+            ],
+            "kind": "Por defecto"
+          }
+        ]
+      }
+    },
+    "ticket_id": "HUM-F9C48-B6FC"
+  }
+]
